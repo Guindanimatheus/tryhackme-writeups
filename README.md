@@ -60,7 +60,9 @@ Este repositório contém arquivos individuais com anotações de cada sala estu
 
 tryhackme-writeups
 │
+
 ├── linux-fundamentals.md
+
 ├── windows-fundamentals.md
 ├── networking-basics.md
 ├── osi-model.md
