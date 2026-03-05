@@ -59,19 +59,29 @@ Durante a trilha SEC0, estudei conceitos fundamentais importantes para a área d
 Este repositório contém arquivos individuais com anotações de cada sala estudada.
 
 tryhackme-writeups
+
 │
 
 ├── linux-fundamentals.md
 
 ├── windows-fundamentals.md
+  
 ├── networking-basics.md
+
 ├── osi-model.md
+
 ├── dns.md
+
 ├── http.md
+
 ├── cryptography-basics.md
+
 ├── offensive-security.md
+
 ├── defensive-security.md
+
 ├── cloud-fundamentals.md
+
 
 ## Objetivo profissional
 
