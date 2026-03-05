@@ -92,6 +92,12 @@ Total de salas documentadas: 31+
 
 Este repositório será atualizado conforme avanço nos estudos em Cibersegurança.
 
+## Perfil TryHackMe
+
+Meu perfil público na plataforma:
+
+https://tryhackme.com/p/guindanimatheus
+
 ## Objetivo profissional
 
 Atualmente estou estudando **Cibersegurança** e desenvolvendo conhecimentos nas áreas de:
